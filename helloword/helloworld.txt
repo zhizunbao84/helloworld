@@ -11,3 +11,4 @@ this is the eleventh change!
 fix bug 102
 fix bug 103
 this is the twelveth change!
+fix bug 104
