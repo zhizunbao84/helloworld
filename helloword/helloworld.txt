@@ -16,3 +16,4 @@ add test
 add test2
 add test3
 fix bug02
+add test4
