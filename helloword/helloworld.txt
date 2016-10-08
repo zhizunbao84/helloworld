@@ -15,3 +15,4 @@ fix bug 104
 add test
 add test2
 add test3
+fix bug02
